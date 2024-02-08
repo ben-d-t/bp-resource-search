@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bp-resource-search/static/css/main.d234c28a.css",
+    "main.js": "/bp-resource-search/static/js/main.0aedef80.js",
+    "index.html": "/bp-resource-search/index.html",
+    "main.d234c28a.css.map": "/bp-resource-search/static/css/main.d234c28a.css.map",
+    "main.0aedef80.js.map": "/bp-resource-search/static/js/main.0aedef80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d234c28a.css",
+    "static/js/main.0aedef80.js"
+  ]
+}
